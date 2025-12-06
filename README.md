@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://i.ibb.co/39j6NKZp/readme.png" width="800" alt="NEXUSTrace Banner">
+</p>
 # ⭐ NEXUSTRACE — Ethical Geolocation Telemetry Beacon
 ### *By Chriz • SKY TECH&CRAFTS*
 
