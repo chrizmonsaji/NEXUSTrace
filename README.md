@@ -59,12 +59,20 @@ NEXUSTrace/
 
 ## 🚀 Getting Started
 
-### 1. Make scripts executable
+### 1. Clone the repo
+```
+git clone https://github.com/chrizmonsaji/NEXUSTrace.git
+```
+### 2. Change Directory
+```
+cd NEXUSTrace
+```
+### 3. Make scripts executable
 ```
 chmod +x serve.sh cleanup.sh
 ```
 
-### 2. Launch NEXUSTrace
+### 4. Launch NEXUSTrace
 ```
 ./serve.sh
 ```
@@ -76,7 +84,7 @@ You’ll receive:
 📡 Waiting for connections...
 ```
 
-### 3. Cleanup logs
+### 5. Cleanup logs
 ```
 ./cleanup.sh
 ```
